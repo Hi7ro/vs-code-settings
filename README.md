@@ -12,9 +12,8 @@ See my full list of extensions [here](https://gist.github.com/w3cj/520eb023dd353
 
 * Current theme:
   * [Just Black](https://marketplace.visualstudio.com/items?itemName=nur.just-black)
-* Original theme I use in most videos:
+* Original theme II:
   * [Seti-Monokai](https://marketplace.visualstudio.com/items?itemName=SmukkeKim.theme-setimonokai)
-* I used this darker modification of the above theme for a few videos:
   * [Seti-Black](https://marketplace.visualstudio.com/items?itemName=bobsparadox.seti-black)
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=coenraads.bracket-pair-colorizer)
